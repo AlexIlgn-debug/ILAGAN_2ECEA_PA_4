@@ -86,3 +86,4 @@ The output should be a bar graph with figure size of 10 and 5, that shows the av
   
 version 2. Changing Readme File
 version 3. Changed File due to mistake (Mindy having GEAS)
+version 4. added the board2.xlsx file
