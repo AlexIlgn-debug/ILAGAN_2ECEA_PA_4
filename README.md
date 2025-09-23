@@ -84,6 +84,6 @@ The output should be a bar graph with figure size of 10 and 5, that shows the av
     plt.show() #Shows the Graph
 The output should be a bar graph with figure size of 10 and 5, that shows the average by track, with the x axis showing the tracks and the y axis as the average score 
   
-version 2. Changing Readme File
-version 3. Changed File due to mistake (Mindy having GEAS)
-version 4. added the board2.xlsx file
+### version 2. Changing Readme File
+### version 3. Changed File due to mistake (Mindy having GEAS)
+### version 4. added the board2.xlsx file
